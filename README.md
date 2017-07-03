@@ -1,3 +1,4 @@
+
 # Nao Mathematica Package
 รวมคำสั่งสำหรับงานของเมียตามที่เมียสั่ง
 
@@ -10,4 +11,5 @@
 
 ## วิธีใช้งาน
 NaoDiff สำหรับหาคอลัมน์ที่มียีนที่มียีนแตกต่างจากตัวอ้างอิง
+
 ![](http://www.sakngoi.com/wp-content/uploads/2017/07/naopack2.png)
