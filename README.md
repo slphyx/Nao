@@ -1,3 +1,4 @@
+[ที่มา](http://www.sakngoi.com/2017/07/03/mathematica-package-%e0%b8%a3%e0%b8%a7%e0%b8%9a%e0%b8%a3%e0%b8%a7%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%a1%e0%b8%b5%e0%b8%a2/)
 
 # Nao Mathematica Package
 รวมคำสั่งสำหรับงานของภรรยาตามที่ภรรยาสั่ง  
