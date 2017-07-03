@@ -3,4 +3,7 @@
 
 ## วิธีติดตั้ง
 ไปที่ File -> Install .. แล้วเลือกตามภาพนี้เลยครับ
+
 ![](http://www.sakngoi.com/wp-content/uploads/2017/07/naopack.png)
+
+จากนั้นก็เลือก Source ที่จะติดตั้งจากไฟล์ ชื่อ Nao-Package.zip  
